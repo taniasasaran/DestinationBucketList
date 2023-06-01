@@ -1,0 +1,6 @@
+target/
+!destinationbucketlist/.mvn/wrapper/maven-wrapper.jar
+!destinationbucketlist/.mvn/wrapper/MavenWrapperDownloader.java
+
+### IntelliJ IDEA ###
+.idea/
